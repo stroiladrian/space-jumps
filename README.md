@@ -9,7 +9,8 @@ Open `index.html` in any modern browser. It is a single self-contained file (gra
 ## Controls
 
 - Tap / click / Space / Up arrow: jump
-- Gear button (on the start screen): sound on/off
+- P or Esc / pause button: pause and resume
+- Speaker button: sound on/off
 - High score and mute setting are saved in your browser
 
 ## Credits
